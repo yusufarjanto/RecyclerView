@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Restaurant RecycleView</string>
+
+    <string name="food_name">Nama Makanan</string>
+    <string name="deskripsi_menu">Deskripsi menu</string>
+    <string-array name="menu_name">
+        <item>Rendang</item>
+        <item>Nasi Goreng</item>
+        <item>Sate</item>
+        <item>Soto Banjar</item>
+        <item>Gado-Gado</item>
+        <item>Gudeg</item>
+        <item>Rawon</item>
+        <item>Ayam Betutu</item>
+    </string-array>
+
+    <string-array name="menu_description">
+        <item>Hidangan daging sapi empuk yang dimasak perlahan bersama santan kelapa dan aneka rempah khas Minang selama berjam-jam hingga kuahnya mengering dan meresap sempurna.</item>
+        <item>Menu ikonik sejuta umat berupa nasi yang digoreng dengan bumbu bawang, cabai, kecap manis, serta suwiran ayam dan pelengkap kerupuk.</item>
+        <item>Sate daging ayam yang dibakar di atas arang panas, disajikan dengan lumuran bumbu kacang yang kental, manis, gurih, serta taburan bawang goreng.</item>
+        <item>Soto ayam berkuah bening dengan aroma rempah harum seperti kayu manis, cengkeh, dan kapulaga, disajikan bersama perkedel kentang dan suwiran daging ayam.</item>
+        <item>Salad tradisional khas Betawi yang terdiri dari campuran sayuran rebus, tahu, tempe, dan telur yang disiram dengan saus kacang gurih manis serta taburan kerupuk.</item>
+        <item>Olahan nangka muda khas Yogyakarta yang dimasak lama dengan gula jawa dan santan hingga manis, disajikan bersama sambal krecek dan opor ayam.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/rendang</item>
+        <item>@drawable/nasigoreng</item>
+        <item>@drawable/sate</item>
+        <item>@drawable/sotobanjar</item>
+        <item>@drawable/gadogado</item>
+        <item>@drawable/gudeg</item>
+        <item>@drawable/rawon</item>
+        <item>@drawable/ayambetutu</item>
+    </integer-array>
+</resources>
